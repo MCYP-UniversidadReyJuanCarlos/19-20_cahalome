@@ -21,15 +21,15 @@ Parte del procedimiento del desarrollo del código/módulo automatizado, se tien
 Conforme se va desarrollando el código, vamos analizando con Immunity Debugger, calculamos el offset y bad caracter para seguir con la explotación. Al ejecutar el código manual/módulo automatizado, explotaremos la vulnerabilidad de stack buffer overflow dentro de Windows XP SP3 en la aplicación vulnerable (Integard versión 2.2); al ser explotada la máquina víctima enviará un Reverse TCP y le dará acceso al atacante mediante Meterpreter.
 El detalle de lo mencionado se encuentra en:
 
-https://github.com/hanx8/TFM2020/blob/master/TFM%202020-Hans%20L%C3%B3pez%20Mendoza.pdf
+https://github.com/MCYP-UniversidadReyJuanCarlos/19-20_cahalome/blob/master/TFM%202020-Hans%20L%C3%B3pez%20Mendoza.pdf
 
 Código manual:
 
-https://github.com/hanx8/TFM2020/blob/master/SCRIPT%20MOD%20HTTP/exploit_integard.py
+https://github.com/MCYP-UniversidadReyJuanCarlos/19-20_cahalome/blob/master/SCRIPT%20MOD%20HTTP/exploit_integard.py
 
 Módulo automatizado en Metasploit:
 
-https://github.com/hanx8/TFM2020/blob/master/SCRIPT%20MOD%20HTTP/mod_exploit.rb
+https://github.com/MCYP-UniversidadReyJuanCarlos/19-20_cahalome/blob/master/SCRIPT%20MOD%20HTTP/mod_exploit.rb
 
 # COMPARACIÓN DE LA EXPLOTACIÓN MANUAL CON EL MÓDULO DE METASPLOIT
 
@@ -44,15 +44,15 @@ Se explotó otra vulnerabilidad muy parecida en vez del servicio HTTP en este ca
 
 El detalle de lo mencionado se encuentra en:
 
-https://github.com/hanx8/TFM2020/blob/master/TFM%202020-Hans%20L%C3%B3pez%20Mendoza.pdf
+https://github.com/MCYP-UniversidadReyJuanCarlos/19-20_cahalome/blob/master/TFM%202020-Hans%20L%C3%B3pez%20Mendoza.pdf
 
 Código manual:
 
-https://github.com/hanx8/TFM2020/blob/master/SCRIPT%20MOD%20FTP/exploit_ftp.py
+https://github.com/MCYP-UniversidadReyJuanCarlos/19-20_cahalome/blob/master/SCRIPT%20MOD%20FTP/exploit_ftp.py
 
 Módulo automatizado en Metasploit:
 
-https://github.com/hanx8/TFM2020/blob/master/SCRIPT%20MOD%20FTP/mod_exploit_ftp.rb
+https://github.com/MCYP-UniversidadReyJuanCarlos/19-20_cahalome/blob/master/SCRIPT%20MOD%20FTP/mod_exploit_ftp.rb
 
 # DISEÑO DE UN FRAMEWORK PARA LA CREACIÓN DE LA EXPLOTACIÓN MANUAL Y AUTOMATIZADA.
 
