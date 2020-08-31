@@ -13,7 +13,7 @@ Se realizará, la explotación de una aplicación Web vulnerable alojado en un W
 
 Se muestra el escenario y la descripción:
 
-![alt text](https://github.com/hanx8/TFM2020/blob/master/GR%C3%81FICOS/escenario.jpg)
+![alt text](https://github.com/MCYP-UniversidadReyJuanCarlos/19-20_cahalome/blob/master/GR%C3%81FICOS/escenario.jpg)
 
 # DESARROLLO DEL CÓDIGO MANUAL Y EL MÓDULO AUTOMATIZADO(HTTP)
 
@@ -35,7 +35,7 @@ https://github.com/hanx8/TFM2020/blob/master/SCRIPT%20MOD%20HTTP/mod_exploit.rb
 
 Se realiza la comparación de la explotación manual (Python) con la explotación automatizada (Metasploit).
 
-![alt text](https://github.com/hanx8/TFM2020/blob/master/GR%C3%81FICOS/comparaci%C3%B3n.jpg)
+![alt text](https://github.com/MCYP-UniversidadReyJuanCarlos/19-20_cahalome/blob/master/GR%C3%81FICOS/comparaci%C3%B3n.jpg)
 
 
 # DESARROLLO DE OTRO MÓDULO EXPLOTANDO OTRA VULNERABILIDAD MUY SIMILAR(FTP).
@@ -58,11 +58,11 @@ https://github.com/hanx8/TFM2020/blob/master/SCRIPT%20MOD%20FTP/mod_exploit_ftp.
 
 En base a las vulnerabilidades explotadas en este TFM (Http/Ftp), se ha diseñado un framework, el cual ayudará a personas con poca experiencia a desarrollar sus propios módulos siguiendo el esquema o estructura que se establece y aprovechar para desarrollar de forma organizada y sencilla.
 
-![alt text](https://github.com/hanx8/TFM2020/blob/master/GR%C3%81FICOS/framework.jpg)
+![alt text](https://github.com/MCYP-UniversidadReyJuanCarlos/19-20_cahalome/blob/master/GR%C3%81FICOS/framework.jpg)
 
 
 # VIDEO
 
-<a href="https://youtu.be/uu0peJ-H-RU"><img src="https://github.com/hanx8/TFM2020/blob/master/GR%C3%81FICOS/youtube.jpg" width="300" height="300"></a>
+<a href="https://youtu.be/uu0peJ-H-RU"><img src="https://github.com/MCYP-UniversidadReyJuanCarlos/19-20_cahalome/blob/master/GR%C3%81FICOS/youtube.jpg" width="300" height="300"></a>
 
 
